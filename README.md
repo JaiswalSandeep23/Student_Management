@@ -137,6 +137,6 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-**Sandeep Jaiswal**
+**Jaiswal Sandeep**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
